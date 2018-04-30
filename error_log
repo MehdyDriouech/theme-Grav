@@ -1,0 +1,8 @@
+[28-Apr-2018 14:06:36 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not find resource 'views/layout.html.php' in any resource paths.(searched: /home/mehdydri/gbstuff.mehdydriouech.fr/system/assets, /home/mehdydri/gbstuff.mehdydriouech.fr/vendor/filp/whoops/src/Whoops/Handler/../Resources)' in /home/mehdydri/gbstuff.mehdydriouech.fr/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php:613
+Stack trace:
+#0 /home/mehdydri/gbstuff.mehdydriouech.fr/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(168): Whoops\Handler\PrettyPageHandler->getResource('views/layout.ht...')
+#1 /home/mehdydri/gbstuff.mehdydriouech.fr/vendor/filp/whoops/src/Whoops/Run.php(272): Whoops\Handler\PrettyPageHandler->handle(Object(RuntimeException))
+#2 [internal function]: Whoops\Run->handleException(Object(RuntimeException))
+#3 {main}
+  thrown in /home/mehdydri/gbstuff.mehdydriouech.fr/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php on line 613
+[28-Apr-2018 14:06:36 UTC] PHP Fatal error:  Class 'Monolog\Formatter\LineFormatter' not found in /home/mehdydri/gbstuff.mehdydriouech.fr/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php on line 184
