@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://markdown-sections/markdown-sections.yaml',
-    'modified' => 1525124933,
+    'modified' => 1524935475,
     'data' => [
         'enabled' => true
     ]

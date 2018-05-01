@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://autoseo/autoseo.yaml',
-    'modified' => 1525124918,
+    'modified' => 1524935451,
     'data' => [
         'enabled' => true,
         'description' => [

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'themes://bootgrav/bootgrav.yaml',
-    'modified' => 1525124934,
+    'modified' => 1524923930,
     'data' => [
         'enabled' => true
     ]

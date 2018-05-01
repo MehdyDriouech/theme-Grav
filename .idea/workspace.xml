@@ -1,7 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fa4e4c7-6a30-4257-8779-e14bbc44c3b1" name="Default" comment="" />
+    <list default="true" id="2fa4e4c7-6a30-4257-8779-e14bbc44c3b1" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/user/pages/03.video-game/videogames.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/user/themes/bootgrav/templates/videogames.html.twig" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/blueprints/master-localhost.php" afterPath="$PROJECT_DIR$/cache/compiled/blueprints/master-localhost.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/config/master-localhost.php" afterPath="$PROJECT_DIR$/cache/compiled/config/master-localhost.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/04bd493cb830e7f09615fa70091c70e6.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/0587053c7f8de0ed1ebd9face87139e5.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/0587053c7f8de0ed1ebd9face87139e5.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/062249916a5cedbb1957c8c4556718f0.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/062249916a5cedbb1957c8c4556718f0.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/0b845cce7c9fd21554e21b1a5aa315fb.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/0f2a7a81155c939e99a6a07e5e5bd52f.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/0f2a7a81155c939e99a6a07e5e5bd52f.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/109eda0adc662bf2105abdc6abbdb133.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/11094d1fb8a6d4c15bca621f097d70cb.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/1793e465eef6c4fab642f15ed58bd9cf.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/197ea90f0991211fc326266b9bcb2d15.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/1a1aea3c7dbcbd65f459ed99b08ab77d.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/1ac94fbb296c09b037ea1a6fbae79b1b.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/2022eebf6aaf1c6d783d75f7f08c82be.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/2022eebf6aaf1c6d783d75f7f08c82be.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/214e984932d930cbc75f97482fa3849a.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/256a0cdf7e7537fd9383bf951a3d0817.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/2584e1d522b6ccafc5784893fc1982fb.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/279db2bee2b66434a0a68e92d193f55a.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/290c555811555cac3dd78393d338646c.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/2ba3cbb04412e4cffebf75b2d4bca973.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/2c248c401b236c4675dcf3c715f32af3.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/2e85e3d698c11a8c3797f1b8b106775b.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/30360aac22bd2b22e652c0049cb18ac0.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/30360aac22bd2b22e652c0049cb18ac0.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/340224f9f14b06060bf99db6b742c0ea.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/36f0173d68dcbb9961a9ccbc4ed96786.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/36f0173d68dcbb9961a9ccbc4ed96786.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/38ffee799a5fbfae719c0e7ab30e2368.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/39a495e755e731990b8316e8c691e47b.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/3a1f7e35aa1335f734d8c6e0fa10acce.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/3b1412f1b4d3a190349e73ea838bdb2a.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/3b1412f1b4d3a190349e73ea838bdb2a.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/43eb079a789344db626c159d4f1dd18c.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/43eb079a789344db626c159d4f1dd18c.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/448d19ec9454feb6886fb0fe263a2488.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/448d19ec9454feb6886fb0fe263a2488.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/4aad850ee1d1452e935aab92e1804c11.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/4c59b0c43fdd7cdb9db9847b756e2eaa.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/54873c821e096a43f0c73ce714f9f159.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/5645c1e1593426966cc7c13951b5dfa3.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/5645c1e1593426966cc7c13951b5dfa3.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/65ba12ba5a0516b37efd7871656da5c7.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/6741ba75aff4592749f626e88e1ac994.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/68ca956b87efa88cc2c316874bcf8607.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/6f1690243e46561d1583e6cab07979fe.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/6f1690243e46561d1583e6cab07979fe.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/6f8965a392ec8009163d41b933d58373.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/77781c2a4295a6bd34e47cde617088ab.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/794d1fc8013c64e508c6aa3b9fd9837b.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/794d1fc8013c64e508c6aa3b9fd9837b.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/7a6f671c6428f379867cdc1d4defeae2.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/7a6f671c6428f379867cdc1d4defeae2.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/7a84d5b5b5fd224b07a4c6c6e969f4f7.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/7b505a93125c0670099d28c1f523885e.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/7b97b5114e0c7e1edbabe404e2df46d0.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/7cb56665746bd98227ced2efd54790f8.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/8dc3c3ad9328fcd19de77d25eb535518.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/8dc3c3ad9328fcd19de77d25eb535518.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/8e1475cfc6947d3b2685ff9528ec1454.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/8e1475cfc6947d3b2685ff9528ec1454.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/8f23365f9ff5bdce5387a72652b51adb.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/8f6aaefea758dba3a1988a0f8761040f.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/925b7e8f6a2e7b4c6139b1dccb26a797.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/93391f0b926accb178f71b29bb45e41c.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/93391f0b926accb178f71b29bb45e41c.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/946796bdd8a1bc4a1e4e4471be7fd874.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/99bb0c755669a3eddbc8fa08d3724878.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/99bb0c755669a3eddbc8fa08d3724878.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/9a75627c44e89b05a858e9318b311726.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/9f1109756533742c57656ea71770945b.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/a0c086829e5902d56e223b5c5981e67b.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/a4499fb748ac969be54fee3e20c4b6f5.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/a622dac3f56dac631cf03cdd361720f3.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/a8976fb12fb60f7122520dfbc567f9ef.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/a9a47bd10cb73cad2d7646d3097343bb.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/a9a47bd10cb73cad2d7646d3097343bb.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/aad1acee9b47582b1d1a32811ac652b6.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/abdb8e94e5acb0f72b9eba0e089de2c8.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/ac60b6da5cb31f9386df5d5755cb029a.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/b11b7b3ad6311e365f3035b82d480c7c.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/b11b7b3ad6311e365f3035b82d480c7c.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/b347adec81a4a4c1da58c1f01730130a.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/c18ef9cd9c346cf120de985546192a66.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/c4cdb1ac56607e92b1739c726ba19aa7.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/c5373ecf43f63a043a37cd6791ac0912.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/c5373ecf43f63a043a37cd6791ac0912.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/c5fa9555b702236e1b31a48b55d59e4d.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/c889c3b4365204546205c9b9c1294569.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/ccdc62fbd0edfff606b0a100bce36bbe.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/cd8cf1671f8079ee06905acab134d9e5.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/cde47844616c6498d123536073809a88.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/d035e5c38f886ea8f264454a33e1d9ce.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/d3bfc368dfc7d44eeabb265b7072d353.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/d3bfc368dfc7d44eeabb265b7072d353.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/df545c5b6be45f76ad11db5df04f3a4a.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/e0192457d224ae49f396adae98c0601b.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/e0348c48d9d80856e394700d209d16c9.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/e065ed8d3063c8f7f43d5febe38b5e7a.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/e41a09fa53166a76a5886483650f494b.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/e4db746233f9d057d9ffe201a3bfcd28.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/e90d8eceafb942bcd2ef7636464cac6f.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/ea30bfc2c0a2ab5cdd222244c19bb714.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/ef3fed206c0397f7c078c2469f71e29f.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/f05eddaff341a3ae5f65a7c071313e5d.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/f2638c650c72fb310305fcf4f96f74b4.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/f2638c650c72fb310305fcf4f96f74b4.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/f47518c7287a5870dd7cf4d6ea6042f5.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/f828134e16f693178a612c830403bcc9.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/fec6c3821428d1253be970bddcc99c93.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/fec6c3821428d1253be970bddcc99c93.yaml.php" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/fef080ad94c75e32cc3e62642e3f3709.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/files/ffa22535638c452422d15bdd94647e10.yaml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/compiled/languages/master-localhost.php" afterPath="$PROJECT_DIR$/cache/compiled/languages/master-localhost.php" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/07/672d65306661616466645b62393631643761373565376131323939326534316261613766653761626263355d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/5e/672d65306661616466645b30343266643366363666633866313339373331363463653339353231626239315d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/5f/672d65306661616466645b39303065333661326635353638363732653633366663653131646334636461315d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/65/672d65306661616466645b61653562333434623132663535356434666266366265336437343861643565325d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/7c/672d65306661616466645b35613461653339613934386563373361343035636262366266313131366136345d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/86/672d65306661616466645b36306334653665383439316534643961636539633134303966303736376666635d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/8d/672d65306661616466645b62626232303765666532653866613037663935343731343032633732643338385d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/c4/672d65306661616466645b33353561316461623430326238353164356530633765623231643538303730355d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/d8/672d65306661616466645b61643738366363633266663561323566383030396233313232623763353036335d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/e4/672d65306661616466645b30663233373632343434323333383036623562626161383130633463313265305d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/e7/672d65306661616466645b30353761363235623366363962376634333439616566616439353631643633325d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/ea/672d6530666161646664245b34353437383363363833313338386334343333316435663638616536643939665d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/ed/672d65306661616466645b31383863623363363664303033663636343437353039353233663465313063665d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/f9/672d65306661616466645b35303266343835616130366534356165313031666663643438663965666265355d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/doctrine/fe/672d65306661616466645b61633138613137343962333835653335323931663337313865396638383562335d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/problem-check-g-e0faadfd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/02/024d7f9cddd5c3a9a9a3e1fa32c0e5d99b2ab4af9cf07b147bef1f6e9fa1fc85.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/04/04173cfbed4c1ece04bfd4daec636baba176658da977a3fabe137ce42a535c66.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/08/086e800d61f31311801ea51a01e75841a785ddab7298eb49f126d7b4c5e2d11b.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/08/08f7963bfc79792b52f513b1abef6da19782278ad42d4f10341dc06d80beea67.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/0e/0ea3c09f02bc14d7715fe9fd6954d8943b088ea0a5566f302bab2533c41ee17e.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/10/103d3f49b115348931386e6434f287e6d10f1fad2075f28c19b303e7a903723c.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/10/10b69984b46f319f5e5adc4345535b14bd21a49d45ee3a2b060b934cffc0f34a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/13/130549c377a7527cc3c4d3ce0ded6541c08f5a029b8c1506a926786aef8723f9.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/13/135f688b06857ebcf54596863f48b9f144ad417eec843d87cb6207f7115cf0b6.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/1e/1e0b383cddfaf4f64636727c33bc383abb4225419b953a7ed79a506711357569.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/20/20c16d0fb2b0008e21d5bcfa52d50abd1d222e36118f503473009d3463530776.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/22/2251a76f39a98624159821dc3d9a494bd80f39ba4ff4ffb950d609e1c1373d60.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/23/236bf2625f1b22daad2b877ae0b0beed2a726403d2704767a6ccaea22a0c1d33.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/29/2966f0f4092f6df17ce8eb9fc68826d3b92afac6cd9c78f75520fac3219676fb.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/2e/2e0b6ab109f6aec374c4d53b0112197292fdbca8eca79d6c3d85e5b97cbcc3d6.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/31/31bbd57f360a803a6e66daea382b6324b5d8ddf4cf8edfb90831a1997dc8b49a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/33/3363ee5befb816dc274d4db0f9db4ab83525d15fc492adbf37e2554e32c9af27.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/3e/3eb391933a4018665e8926e51a3f459075c0a14e277957b98de49888106bd003.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/3f/3f12eda59116567e5baa3cc2656ca0ba26ad8b3703eaf0153ac93da457653789.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/41/41281168bdbf55af21f1d47c7422d98f24d26f7e6e249a79ac3c50412ea04e78.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/41/419c5c8beaab290633b2ee07dae28928f89ed2b754d75fbeecc9c2583e589a07.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/42/4217044109f8fc27960e3b40a5db071c255c08d440aad9e18528d628b71f8297.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/42/42914acbb442d930f93f06243d59ed28555f9b398e8d6f92a53b71de13d9bd58.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/44/44dfe98a2c3d73a51731839128db879ff1fd3bb68e13c5763794aa186c7a9028.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/47/4740acacc01b276cf56cc2689f26e28373d845305fdf171261143bbff0f37956.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/48/48ead5b5f9c6b5d4f7cb9de15622360d6ec377d023bcb3dac97b969b6d0d5b31.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/4a/4a688ec86eb7851ac2b799061b30b92894ca49723b738bede43b34d13ff26ec3.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/4b/4b0412459ca98885c7cb2e3767c27f4fbcbfa2912c2950cefcd9066fcb8291d6.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/4c/4ce06f54369bc4aebc813be309ab1d38f58b474ccebf2177cdbfd5e6c535c145.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/4d/4dd2f1856559153e09c5d918ca0222c866b9b7fd0d27004496717e85670745ae.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/4f/4f3344bb4202c23cfb7c7e86226a62608ca866682e1951e9b04cff26fbd02eb3.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/58/589c74ec3f30537568435cfcf8b9d45a7851edb056f7c49835691aa2c2ac62d1.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/59/5946d83caf7fc535b8e0784de25aa91679164e2e2f1cf086ac4b9c18f318e3b8.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/59/59c2591c07691bee5d001469b53d290e6e00fcd939e00ff2ad08c1322eb734b2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/5d/5db237da3369f0c7908084a2535fb322ebcb753b7424eb258d801987fee9b71a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/60/60ae0e2b9fb8a636572745c99659102133f180fcfdf40718a5c8605bbcbdbc91.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/65/65cf804f75156c06cfeca6976b282d38468deb5a012c171497477666d726c42b.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/72/725b90bdbd6211a252a00275f9b5bcc5ab4f648f963cb8c36314a4c9419879cd.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/73/73e0d2b6315992d1cd53d132353ff85e0757a2ab1754d92a168a7c400cd12699.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/76/7635a03c795606c5cb3a0e2d6cf5eecf8e2121ff113c2ddd48c4fcfa0b38c9ba.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/77/779ef719f1ceed47f09dda1423b5cdd5a39d8b0dd4a84e2e8ec24f207f3c7a2a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/7c/7c1f3f8748522f5c3a4c687ea44b5c9ddcb5dd9695e5d2c82a41e83e424c5b85.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/7e/7e1840e49e045eca9ab9331798c21aa0884fef6280de366a2a867e34a7cf56cf.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/7e/7eec280ea5d9483285a05650673838b2edf31ab875647dcbf7452ce0cd381c23.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/92/921f6cd407506f2089125d34e2a694863702848e841210809a633e7ea39763a2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/93/938bcb1b019fefcf06edd8988022e016a496e27e0a5308972527d1c36515a41b.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/a0/a0c25aaa6244dcf25691e31dd1d730cb29dc13f176b2118347fe470f45bf1eb8.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/a4/a4e18459bbd081173d9ded077319bacc2c2a35e9db9469d9011e189e40f66cc7.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/b4/b4bb14e4458aa77cec403ae59f5e98e08e709253e0d128ba21799b2411b01b9a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/b6/b672bf11d0a77a8c00a73d80f635110623e9bd8dd9a6dd53e80a31343ee35c5b.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/b8/b8318007a267c2052ada8a5be6a23b7d8332d45dfdad8119c23f5415da4fbbf2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/c0/c0b5b0cd7e96e156d90bb1bdde44f514bc529ab16a66be8f5aa77bfbe5b084c2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/c2/c224971208530f48f2fff704e3d152cab0d10741622053f9e5114b26b4821165.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/c3/c3c86cce0db96d4de5e38e649db8cf5df439e1ee1d82fb8c8694108ff4a23531.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/c4/c49d2cb2caadbeee97494d896f4187b13e9c5a034a4ad89cb624e2e923d2cb8a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/c5/c5b1a396dbbc1a66a0b048d4e2ac96d8b6065c348b5e42ceae98e78e89bf08fd.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/d6/d6cca31164e9f88ec909acb1496050df7e3d8024e3096c5292b735403e517975.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/dc/dccbd1cf740e63fa214d7dce5edd3f0b057092faeec8b80ec20919f6d0d982fb.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/e0/e00a874756dfc145a2de2ccb35745146d33301e390d7381837984323fafa2fb1.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/e7/e7abc565563a6faebbc12ebe3ff968ecf6327f4593311716c3a4489c53ca3eec.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/e7/e7dad42f52d6d47c3cd67f55b243a54bb1c4481a4807dfac547680c0887425d3.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/e9/e951364b4b36ec3a2b06ca6256d0f8ab432afbfaa5875e35ad113dea286f6164.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/ed/edb55423db58facf8898b9d4d6f6c678542bdd381f42feb6f4f1e640d52d54db.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/f1/f1d9f4ba814618e84f8be8620f897250186aec0b3de01da08123c1fe36b46e7f.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cache/twig/f2/f2a12288b956afd635418f9188ee84df0b7e49b539b9023a34c1f36bacc19727.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/7/2/d/4/7/72d4701b4fb83b719525012978e80fce6da9c1ef-logofacebook.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/e/b/2/d/5/eb2d592e4192fd88d25d625d9972bb0fbcfbab79-twitter.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/grav.log" afterPath="$PROJECT_DIR$/logs/grav.log" />
+      <change beforePath="$PROJECT_DIR$/logs/popularity/daily.json" afterPath="$PROJECT_DIR$/logs/popularity/daily.json" />
+      <change beforePath="$PROJECT_DIR$/logs/popularity/monthly.json" afterPath="$PROJECT_DIR$/logs/popularity/monthly.json" />
+      <change beforePath="$PROJECT_DIR$/logs/popularity/totals.json" afterPath="$PROJECT_DIR$/logs/popularity/totals.json" />
+      <change beforePath="$PROJECT_DIR$/logs/popularity/visitors.json" afterPath="$PROJECT_DIR$/logs/popularity/visitors.json" />
+      <change beforePath="$PROJECT_DIR$/user/pages/03.video-game/default.md" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,22 +212,66 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navigation.html.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="navigation.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user/themes/bootgrav/templates/partials/navigation.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="504">
-              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+              <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="videogames.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user/themes/bootgrav/templates/videogames.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog_item.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/plugins/gantry5/engines/nucleus/templates/partials/blog_item.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="videogames.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/pages/03.video-game/videogames.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="52">
+                <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>taxonomy</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/user/themes/bootgrav/templates/partials/navigation.html.twig" />
+        <option value="$PROJECT_DIR$/user/themes/bootgrav/templates/partials/videogames.html.twig" />
+        <option value="$PROJECT_DIR$/user/pages/03.video-game/default.md" />
+        <option value="$PROJECT_DIR$/user/themes/bootgrav/templates/videogames.html.twig" />
       </list>
     </option>
   </component>
@@ -74,63 +306,87 @@
         <subPane>
           <expand>
             <path>
-              <item name="GBS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GBS" type="462c0819:PsiDirectoryNode" />
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GBS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GBS" type="462c0819:PsiDirectoryNode" />
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GBS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GBS" type="462c0819:PsiDirectoryNode" />
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="01.home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="02.articles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="03.video-game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="03.video-game" type="462c0819:PsiDirectoryNode" />
+              <item name="archeage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="04.materials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="05.contact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GBS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GBS" type="462c0819:PsiDirectoryNode" />
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="bootgrav" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GBS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GBS" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="bootgrav" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GBS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GBS" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="bootgrav" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GBS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GBS" type="462c0819:PsiDirectoryNode" />
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="bootgrav" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GBS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GBS" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="bootgrav" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="modular" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GBS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GBS" type="462c0819:PsiDirectoryNode" />
+              <item name="ThemeGrav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeGrav" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="bootgrav" type="462c0819:PsiDirectoryNode" />
@@ -149,6 +405,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files (x86)\Ampps\www\ThemeGrav\user\themes\bootgrav\templates" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,20 +438,22 @@
       <updated>1525022485857</updated>
       <workItem from="1525022487957" duration="34000" />
       <workItem from="1525022562684" duration="274000" />
+      <workItem from="1525189968698" duration="2698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="308000" />
+    <option name="totallyTimeSpent" value="3006000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1046" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -201,7 +464,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -224,6 +486,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/bootgrav/templates/partials/navigation.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/bootgrav/templates/partials/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/user/themes/bootgrav/templates/partials/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -235,7 +513,45 @@
     <entry file="file://$PROJECT_DIR$/user/themes/bootgrav/templates/partials/navigation.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
-          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/pages/03.video-game/videogames.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="52">
+            <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/plugins/gantry5/engines/nucleus/templates/partials/blog_item.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/pages/03.video-game/archeage/default.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="78">
+            <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/bootgrav/templates/videogames.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>
