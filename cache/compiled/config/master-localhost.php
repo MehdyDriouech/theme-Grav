@@ -1,149 +1,149 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1525022267,
-    'checksum' => '895ba22d93c735ba0766fac0325842e3',
+    'timestamp' => 1525125231,
+    'checksum' => '2d0c7f1b3cc1a25192cc6c593aca75fe',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1524923360
+                'modified' => 1525124897
             ],
             'plugins/twig-extensions' => [
                 'file' => 'user/config/plugins/twig-extensions.yaml',
-                'modified' => 1525022224
+                'modified' => 1525124897
             ],
             'plugins/youtube' => [
                 'file' => 'user/config/plugins/youtube.yaml',
-                'modified' => 1524924593
+                'modified' => 1525124897
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1524923356
+                'modified' => 1525124897
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1524935697
+                'modified' => 1525124897
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
-                'modified' => 1524923360
+                'modified' => 1525124897
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1525022267
+                'modified' => 1525124897
             ],
             'themes/bootgrav' => [
                 'file' => 'user/config/themes/bootgrav.yaml',
-                'modified' => 1525022257
+                'modified' => 1525124897
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1523570242
+                'modified' => 1525124886
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1523570242
+                'modified' => 1525124886
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1523570242
+                'modified' => 1525124886
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1523570242
+                'modified' => 1525124887
             ]
         ],
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1523570242
+                'modified' => 1525124897
             ],
             'plugins/autoseo' => [
                 'file' => 'user/plugins/autoseo/autoseo.yaml',
-                'modified' => 1524935451
+                'modified' => 1525124918
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1523570242
+                'modified' => 1525124918
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1523570242
+                'modified' => 1525124920
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1524935317
+                'modified' => 1525124920
             ],
             'plugins/gantry5' => [
                 'file' => 'user/plugins/gantry5/gantry5.yaml',
-                'modified' => 1524935459
+                'modified' => 1525124927
             ],
             'plugins/highlight' => [
                 'file' => 'user/plugins/highlight/highlight.yaml',
-                'modified' => 1524935572
+                'modified' => 1525124931
             ],
             'plugins/language-selector' => [
                 'file' => 'user/plugins/language-selector/language-selector.yaml',
-                'modified' => 1524936304
+                'modified' => 1525124931
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1523570242
+                'modified' => 1525124931
             ],
             'plugins/markdown-color' => [
                 'file' => 'user/plugins/markdown-color/markdown-color.yaml',
-                'modified' => 1524935388
+                'modified' => 1525124932
             ],
             'plugins/markdown-fontawesome' => [
                 'file' => 'user/plugins/markdown-fontawesome/markdown-fontawesome.yaml',
-                'modified' => 1524935465
+                'modified' => 1525124932
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
-                'modified' => 1523570242
+                'modified' => 1525124933
             ],
             'plugins/markdown-sections' => [
                 'file' => 'user/plugins/markdown-sections/markdown-sections.yaml',
-                'modified' => 1524935475
+                'modified' => 1525124933
             ],
             'plugins/markdown-spoilers' => [
                 'file' => 'user/plugins/markdown-spoilers/markdown-spoilers.yaml',
-                'modified' => 1524935479
+                'modified' => 1525124933
             ],
             'plugins/markdown-tasklists' => [
                 'file' => 'user/plugins/markdown-tasklists/markdown-tasklists.yaml',
-                'modified' => 1524935485
+                'modified' => 1525124933
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1523570242
+                'modified' => 1525124933
             ],
             'plugins/quick-tray-links' => [
                 'file' => 'user/plugins/quick-tray-links/quick-tray-links.yaml',
-                'modified' => 1524935574
+                'modified' => 1525124933
             ],
             'plugins/readingtime' => [
                 'file' => 'user/plugins/readingtime/readingtime.yaml',
-                'modified' => 1524935571
+                'modified' => 1525124933
             ],
             'plugins/seo' => [
                 'file' => 'user/plugins/seo/seo.yaml',
-                'modified' => 1524935319
+                'modified' => 1525124933
             ],
             'plugins/taxonomylist' => [
                 'file' => 'user/plugins/taxonomylist/taxonomylist.yaml',
-                'modified' => 1524935573
+                'modified' => 1525124933
             ],
             'plugins/twig-extensions' => [
                 'file' => 'user/plugins/twig-extensions/twig-extensions.yaml',
-                'modified' => 1524935492
+                'modified' => 1525124933
             ],
             'plugins/youtube' => [
                 'file' => 'user/plugins/youtube/youtube.yaml',
-                'modified' => 1524924527
+                'modified' => 1525124934
             ]
         ]
     ],

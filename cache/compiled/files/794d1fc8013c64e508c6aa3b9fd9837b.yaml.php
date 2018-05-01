@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://quick-tray-links/quick-tray-links.yaml',
-    'modified' => 1524935574,
+    'modified' => 1525124933,
     'data' => [
         'enabled' => true,
         'links' => [

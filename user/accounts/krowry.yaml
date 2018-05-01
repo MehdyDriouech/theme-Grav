@@ -1,15 +1,11 @@
 email: anoll.kevin@gmail.com
-fullname: 'Kevin Anoll'
-title: Admin
-state: enabled
 access:
   admin:
-    super: 'true'
-    login: 'true'
+    login: true
+    super: true
   site:
-    login: 'true'
-hashed_password: $2y$10$23PP4zNvCXmhVEKoxbtwlu21gYGLH81Bfhkf75Z/fFlne4KaPMCLW
-authorized: true
-twofa_secret: KV3EP2UPW4DLD6IYY3OL2WZUXEC65QKC
-language: fr
-twofa_enabled: false
+    login: true
+fullname: 'Kevin ANOLL'
+title: Admin
+state: enabled
+hashed_password: $2y$10$YNpu3/3dw4XOYROoJdSF1uK5Tt9rSKTuJogmCIMR6kLf9wNveQrc.

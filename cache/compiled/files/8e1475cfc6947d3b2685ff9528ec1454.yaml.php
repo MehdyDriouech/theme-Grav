@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://seo/seo.yaml',
-    'modified' => 1524935319,
+    'modified' => 1525124933,
     'data' => [
         'enabled' => true,
         'article' => true,
