@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://language-selector/language-selector.yaml',
-    'modified' => 1524936304,
+    'modified' => 1525124931,
     'data' => [
         'enabled' => true,
         'built_in_css' => true,
