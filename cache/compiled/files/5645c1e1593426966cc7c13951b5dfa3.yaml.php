@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://twig-extensions/twig-extensions.yaml',
-    'modified' => 1524935492,
+    'modified' => 1525124933,
     'data' => [
         'enabled' => true,
         'modules' => [
