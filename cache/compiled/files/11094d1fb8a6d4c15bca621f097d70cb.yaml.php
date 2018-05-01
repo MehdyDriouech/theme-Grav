@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/MAMP/htdocs/theme-Grav/user/config/system.yaml',
-    'modified' => 1525124897,
+    'modified' => 1525185461,
     'data' => [
         'absolute_urls' => false,
         'timezone' => '',
