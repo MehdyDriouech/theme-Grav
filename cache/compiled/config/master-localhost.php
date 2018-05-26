@@ -1,149 +1,73 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1525189171,
-    'checksum' => '5e523f140033270df99c190a3aa8e9d0',
+    'timestamp' => 1527352412,
+    'checksum' => '8f168037882a0a53fadc96bc75e684e3',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1524923360
-            ],
-            'plugins/twig-extensions' => [
-                'file' => 'user/config/plugins/twig-extensions.yaml',
-                'modified' => 1525022224
-            ],
-            'plugins/youtube' => [
-                'file' => 'user/config/plugins/youtube.yaml',
-                'modified' => 1524924593
+                'modified' => 1527352353
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1524923356
+                'modified' => 1527352041
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1524935697
+                'modified' => 1527352008
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
-                'modified' => 1524923360
+                'modified' => 1527352353
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1525188818
-            ],
-            'themes/bootgrav' => [
-                'file' => 'user/config/themes/bootgrav.yaml',
-                'modified' => 1525022257
+                'modified' => 1527352008
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1523570242
+                'modified' => 1527351908
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1523570242
+                'modified' => 1527351908
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1523570242
+                'modified' => 1527351908
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1523570242
+                'modified' => 1527351908
             ]
         ],
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1523570242
-            ],
-            'plugins/autoseo' => [
-                'file' => 'user/plugins/autoseo/autoseo.yaml',
-                'modified' => 1524935451
+                'modified' => 1527185507
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1523570242
+                'modified' => 1512516680
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1523570242
+                'modified' => 1527352023
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1524935317
-            ],
-            'plugins/gantry5' => [
-                'file' => 'user/plugins/gantry5/gantry5.yaml',
-                'modified' => 1524935459
-            ],
-            'plugins/highlight' => [
-                'file' => 'user/plugins/highlight/highlight.yaml',
-                'modified' => 1524935572
-            ],
-            'plugins/language-selector' => [
-                'file' => 'user/plugins/language-selector/language-selector.yaml',
-                'modified' => 1524936304
+                'modified' => 1526410299
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1523570242
-            ],
-            'plugins/markdown-color' => [
-                'file' => 'user/plugins/markdown-color/markdown-color.yaml',
-                'modified' => 1524935388
-            ],
-            'plugins/markdown-fontawesome' => [
-                'file' => 'user/plugins/markdown-fontawesome/markdown-fontawesome.yaml',
-                'modified' => 1524935465
-            ],
-            'plugins/markdown-notices' => [
-                'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
-                'modified' => 1523570242
-            ],
-            'plugins/markdown-sections' => [
-                'file' => 'user/plugins/markdown-sections/markdown-sections.yaml',
-                'modified' => 1524935475
-            ],
-            'plugins/markdown-spoilers' => [
-                'file' => 'user/plugins/markdown-spoilers/markdown-spoilers.yaml',
-                'modified' => 1524935479
-            ],
-            'plugins/markdown-tasklists' => [
-                'file' => 'user/plugins/markdown-tasklists/markdown-tasklists.yaml',
-                'modified' => 1524935485
+                'modified' => 1526074449
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1523570242
-            ],
-            'plugins/quick-tray-links' => [
-                'file' => 'user/plugins/quick-tray-links/quick-tray-links.yaml',
-                'modified' => 1524935574
-            ],
-            'plugins/readingtime' => [
-                'file' => 'user/plugins/readingtime/readingtime.yaml',
-                'modified' => 1524935571
-            ],
-            'plugins/seo' => [
-                'file' => 'user/plugins/seo/seo.yaml',
-                'modified' => 1524935319
-            ],
-            'plugins/taxonomylist' => [
-                'file' => 'user/plugins/taxonomylist/taxonomylist.yaml',
-                'modified' => 1525188817
-            ],
-            'plugins/twig-extensions' => [
-                'file' => 'user/plugins/twig-extensions/twig-extensions.yaml',
-                'modified' => 1524935492
-            ],
-            'plugins/youtube' => [
-                'file' => 'user/plugins/youtube/youtube.yaml',
-                'modified' => 1524924527
+                'modified' => 1527352027
             ]
         ]
     ],
@@ -208,23 +132,6 @@ return [
                     ]
                 ]
             ],
-            'autoseo' => [
-                'enabled' => true,
-                'description' => [
-                    'enabled' => true,
-                    'length' => 30
-                ],
-                'keywords' => [
-                    'enabled' => true,
-                    'length' => 20
-                ],
-                'facebook' => [
-                    'enabled' => true
-                ],
-                'twitter' => [
-                    'enabled' => true
-                ]
-            ],
             'email' => [
                 'enabled' => true,
                 'from' => NULL,
@@ -271,30 +178,6 @@ return [
                         0 => 'image/*'
                     ]
                 ]
-            ],
-            'gantry5' => [
-                'enabled' => true,
-                'production' => true,
-                'use_media_folder' => false,
-                'offline' => false,
-                'offline_message' => NULL,
-                'asset_timestamps' => true,
-                'asset_timestamps_period' => 7,
-                'debug' => false,
-                'compile_yaml' => true,
-                'compile_twig' => true
-            ],
-            'highlight' => [
-                'enabled' => true,
-                'theme' => 'default',
-                'lines' => false
-            ],
-            'language-selector' => [
-                'enabled' => true,
-                'built_in_css' => true,
-                'untranslated_pages_behavior' => 'none',
-                'button_display' => 'default',
-                'select_display' => 'default'
             ],
             'login' => [
                 'enabled' => true,
@@ -350,101 +233,9 @@ return [
                     ]
                 ]
             ],
-            'markdown-color' => [
-                'enabled' => true
-            ],
-            'markdown-fontawesome' => [
-                'enabled' => true
-            ],
-            'markdown-notices' => [
-                'enabled' => true,
-                'built_in_css' => true,
-                'level_classes' => [
-                    0 => 'yellow',
-                    1 => 'red',
-                    2 => 'blue',
-                    3 => 'green'
-                ]
-            ],
-            'markdown-sections' => [
-                'enabled' => true
-            ],
-            'markdown-spoilers' => [
-                'enabled' => true,
-                'include_css' => true
-            ],
-            'markdown-tasklists' => [
-                'enabled' => true
-            ],
             'problems' => [
                 'enabled' => true,
                 'built_in_css' => true
-            ],
-            'quick-tray-links' => [
-                'enabled' => true,
-                'links' => [
-                    0 => [
-                        'icon' => 'fa fa-book',
-                        'link' => 'https://learn.getgrav.org',
-                        'tooltip' => 'Grav Documentation and Tutorials'
-                    ],
-                    1 => [
-                        'icon' => 'fa fa-info',
-                        'link' => '/admin/config/info',
-                        'tooltip' => 'PHP Information'
-                    ]
-                ]
-            ],
-            'readingtime' => [
-                'enabled' => true,
-                'words_per_minute' => 200,
-                'format' => '{minutes_short_count} {minutes_text}, {seconds_short_count} {seconds_text}',
-                'round' => 'seconds'
-            ],
-            'seo' => [
-                'enabled' => true,
-                'article' => true,
-                'restaurant' => true,
-                'event' => true,
-                'organization' => true,
-                'musicevent' => true,
-                'person' => true
-            ],
-            'taxonomylist' => [
-                'enabled' => true,
-                'route' => '/blog'
-            ],
-            'twig-extensions' => [
-                'enabled' => false,
-                'modules' => [
-                    0 => 'array',
-                    1 => 'intl',
-                    2 => 'date'
-                ]
-            ],
-            'youtube' => [
-                'enabled' => true,
-                'built_in_css' => true,
-                'add_editor_button' => true,
-                'player_parameters' => [
-                    'autoplay' => 0,
-                    'cc_load_policy' => 0,
-                    'color' => 'red',
-                    'controls' => 1,
-                    'disablekb' => 0,
-                    'enablejsapi' => 0,
-                    'fs' => 1,
-                    'hl' => '',
-                    'iv_load_policy' => 1,
-                    'loop' => 0,
-                    'modestbranding' => 0,
-                    'origin' => '',
-                    'playsinline' => 0,
-                    'rel' => 1,
-                    'showinfo' => 1,
-                    'vq' => 'default'
-                ],
-                'privacy_enhanced_mode' => false
             ]
         ],
         'media' => [
@@ -715,17 +506,17 @@ return [
         ],
         'site' => [
             'title' => 'Grav',
-            'default_lang' => 'fr',
+            'default_lang' => 'en',
             'author' => [
-                'name' => 'Moonshine & Krowry',
-                'email' => 'contact@geekbuystuff.com'
+                'name' => 'Joe Bloggs',
+                'email' => 'joe@test.com'
             ],
             'taxonomies' => [
                 0 => 'category',
                 1 => 'tag'
             ],
             'metadata' => [
-                'description' => 'GeekbuyStuff est un site qui est fait par des fans de nouvelles technos pour des fans de nouvelles technos. Au programme tests , Jeux-vidéos et tutoriels.'
+                'description' => 'Grav is an easy to use, yet powerful, open source flat-file CMS'
             ],
             'summary' => [
                 'enabled' => true,
@@ -737,6 +528,70 @@ return [
             'routes' => NULL,
             'blog' => [
                 'route' => '/blog'
+            ],
+            'email' => 'your-email@domain.com',
+            'description' => 'Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.',
+            'links' => [
+                0 => [
+                    'title' => 'Services',
+                    'url' => '#services'
+                ],
+                1 => [
+                    'title' => 'Portfolio',
+                    'url' => '#portfolio'
+                ],
+                2 => [
+                    'title' => 'About',
+                    'url' => '#about'
+                ],
+                3 => [
+                    'title' => 'Team',
+                    'url' => '#team'
+                ],
+                4 => [
+                    'title' => 'Contact',
+                    'url' => '#contact'
+                ]
+            ],
+            'social' => [
+                0 => [
+                    'title' => 'twitter',
+                    'url' => 'http://twitter.com/jekyllrb'
+                ],
+                1 => [
+                    'title' => 'facebook',
+                    'url' => NULL
+                ],
+                2 => [
+                    'title' => 'stack-overflow',
+                    'url' => 'http://stackoverflow.com/questions/tagged/jekyll'
+                ],
+                3 => [
+                    'title' => 'bitbucket',
+                    'url' => 'http://bitbucket.org/jekyll'
+                ],
+                4 => [
+                    'title' => 'github',
+                    'url' => 'http://github.com/jekyll'
+                ]
+            ],
+            'address' => [
+                0 => [
+                    'line' => '3481 Melrose Place'
+                ],
+                1 => [
+                    'line' => 'Beverly Hills, CA 90210'
+                ]
+            ],
+            'quicklinks' => [
+                0 => [
+                    'title' => 'Privacy Policy',
+                    'url' => '#'
+                ],
+                1 => [
+                    'title' => 'Terms of Use',
+                    'url' => '#'
+                ]
             ]
         ],
         'streams' => [
@@ -791,7 +646,7 @@ return [
                 'hide_in_urls' => false
             ],
             'pages' => [
-                'theme' => 'bootgrav',
+                'theme' => 'agency',
                 'order' => [
                     'by' => 'default',
                     'dir' => 'asc'
@@ -816,7 +671,7 @@ return [
                     'twig' => true
                 ],
                 'markdown' => [
-                    'extra' => false,
+                    'extra' => true,
                     'auto_line_breaks' => false,
                     'auto_url_links' => false,
                     'escape_markup' => false,
@@ -861,7 +716,7 @@ return [
                 ]
             ],
             'cache' => [
-                'enabled' => true,
+                'enabled' => false,
                 'check' => [
                     'method' => 'file'
                 ],
@@ -902,7 +757,7 @@ return [
                 ]
             ],
             'errors' => [
-                'display' => true,
+                'display' => 0,
                 'log' => true
             ],
             'debugger' => [
@@ -927,8 +782,7 @@ return [
                 'allowed_fallback_types' => [
                     
                 ],
-                'auto_metadata_exif' => false,
-                'upload_limit' => 8388608
+                'auto_metadata_exif' => false
             ],
             'session' => [
                 'enabled' => true,
@@ -949,12 +803,7 @@ return [
             ]
         ],
         'security' => [
-            'salt' => 'wqPOTQVARpneIr'
-        ],
-        'themes' => [
-            'bootgrav' => [
-                'enabled' => true
-            ]
+            'salt' => 'sWMBbdLJmEN7IT'
         ]
     ]
 ];

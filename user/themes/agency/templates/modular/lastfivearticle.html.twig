@@ -1,0 +1,54 @@
+<section id="portfolio" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                {{ content }}
+            </div>
+        </div>
+        <div class="row">
+            {% for portfolio in page.header.portfolios %}
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal{{ portfolio.modalid }}" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="{{ page.media[portfolio.thumbnail].url }}" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>{{ portfolio.title }}</h4>
+                        <p class="text-muted">{{ portfolio.subtitle }}</p>
+                    </div>
+                </div>
+
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+
+<div>
+    {% set tags = taxonomy.taxonomy['tag'] %}
+
+    <ul class="tag-box inline">
+        {% for tag, items in tags %}
+            <li><a href="#{{ tag }}">{{ tag }} <span>{{ items|length }}</span></a></li>
+        {% endfor %}
+    </ul>
+
+    {% for tag, items in tags %}
+        <article>
+            <h2 id="{{ tag }}">{{ tag }}</h2>
+            <ul class="post-list">
+                {% for path, slug in items %}
+                    {% set post = grav['pages'].get(path) %}
+                    {% if post.title != null %}
+                        <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date(site.date_long) }}">{{ post.date | date("d M Y") }}</time></a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </article><!-- /.hentry -->
+    {% endfor %}
+
+</div>
